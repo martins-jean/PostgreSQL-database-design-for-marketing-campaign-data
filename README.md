@@ -16,4 +16,7 @@ Authored a Python script that also uses SQL to create the tables needed for a ma
 
 <details>
   <summary>Creation of the necessary tables using PostgreSQL</summary>
+  1. Create the clients table.
+  2. Create the campaign table.
+  3. Create the economics table.
 </details>
