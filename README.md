@@ -6,7 +6,7 @@ Authored a Python script also using SQL to create the tables needed for a market
 
 In this notebook, I applied data engineering skills to clean data and design a PostgreSQL database. <br>
 The objective is to store information about marketing campaigns run by a bank. <br>
-I modified values, added new features, and considered how data should be stored within a PostgreSQL database efficiently and clearly. <br>
+I modified values, added new features, and considered how data should be stored within a PostgreSQL database. <br>
 
 ## Reproducibility Guidelines
 
