@@ -3,6 +3,9 @@ Authored a Python script that also uses SQL to create the tables needed for a ma
 
 ## Project Overview
 
+In this notebook, I apply your data engineering skills to clean data and design a PostgreSQL database to store information about marketing campaigns run by a bank. <br>
+I modified values, added new features, and considered how data should be stored within a PostgreSQL database efficiently and clearly.
+
 ## Reproducibility Guidelines
 
 <details>
