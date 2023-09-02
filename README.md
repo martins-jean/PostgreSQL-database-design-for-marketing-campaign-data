@@ -1,6 +1,6 @@
 # Marketing Database Design for a Bank
 
-Authored a Python script that also uses SQL syntax to create the tables needed for a marketing database in PostgreSQL.
+Authored a Python script also using SQL to create the tables needed for a marketing database in PostgreSQL.
 
 ## Project Overview
 
