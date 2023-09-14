@@ -1,4 +1,4 @@
-# Marketing database design for a bank
+# PostgreSQL database design for marketing campaign data
 
 ## Contextual overview
 
