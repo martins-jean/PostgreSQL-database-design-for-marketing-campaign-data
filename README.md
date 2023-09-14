@@ -8,13 +8,15 @@ A bank needs to store the data from its marketing campaigns into a database for 
 
 ## Project objectives
 
+<p align="justify">
 1. To clean the data and to design a schema, we will use a python script. <br>
 2. To store the data, we can then use PostgreSQL as a high extensible open-source database. 
+</p>
 
 ## Reproducibility guidelines
 
 <details>
-  <summary>Script creation</summary>
+  <summary>Data preparation</summary>
   1. Read the source data "bank_marketing.csv" as a Pandas DataFrame. <br>
   2. Split the data into three DataFrames: one related to client data, another to campaign data, and the third referring to macroeconomics. <br>
   3. Rename the columns to more descriptive names. <br>
