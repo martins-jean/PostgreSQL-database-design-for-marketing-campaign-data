@@ -1,17 +1,20 @@
-# Marketing Database Design for a Bank
+# Marketing database design for a bank
 
-Authored a Python script also using SQL to create the tables needed for a marketing database in PostgreSQL.
+## Contextual overview
 
-## Project Overview
+<p align="justify">
+A bank needs to store the data from its marketing campaigns into a database for later analysis.
+</p>
 
-In this notebook, I applied data engineering skills to clean data and design a PostgreSQL database. <br>
-The objective is to store information about marketing campaigns run by a bank. <br>
-I modified values, added new features, and considered how data should be stored within a PostgreSQL database. <br>
+## Project objectives
 
-## Reproducibility Guidelines
+1. To clean the data and to design a schema, we will use a python script. <br>
+2. To store the data, we can then use PostgreSQL as a high extensible open-source database. 
+
+## Reproducibility guidelines
 
 <details>
-  <summary>Data preparation</summary>
+  <summary>Script creation</summary>
   1. Read the source data "bank_marketing.csv" as a Pandas DataFrame. <br>
   2. Split the data into three DataFrames: one related to client data, another to campaign data, and the third referring to macroeconomics. <br>
   3. Rename the columns to more descriptive names. <br>
